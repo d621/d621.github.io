@@ -39,8 +39,9 @@
   (info, $info-color),
   (facebook, $facebook-color),
   (twitter, $twitter-color),
-  (linkedin, $linkedin-color);
-  (weibo, #EB192D)
+  (linkedin, $linkedin-color),
+  (qq, #F8BE2D),
+  (weibo, #EB192D);
 
   @each $buttoncolor, $color in $buttoncolors {
     &--#{$buttoncolor} {
