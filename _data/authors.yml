@@ -6,7 +6,7 @@ XED:
   avatar      : "/assets/images/2.jpg"
   links:
     - label: "个人主页"
-      icon: "fas fa-fw fa-link"
+      icon: "fas fa-fw fa-university"
       url: "/tags/#xed"
     - label: "Website"
       icon: "fas fa-fw fa-link"
