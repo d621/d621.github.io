@@ -8,21 +8,12 @@ XED:
     - label: "个人主页"
       icon: "fas fa-fw fa-university"
       url: "/tags/#xed"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://thewhip.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/extravagantman"
 
-Cornelius Fiddlebone:
-  name        : "Cornelius Fiddlebone"
-  bio         : "I ordered what?"
-  avatar      : "/assets/images/bio-photo.jpg"
+XX:
+  name        : "十三小贤 🐺"
+  bio         : "只要靠近人类工作的场所……"
+  avatar      : "/assets/images/2.jpg"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:cornelius@thewhip.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/rhymeswithsackit"
+    - label: "个人主页"
+      icon: "fas fa-fw fa-university"
+      url: "/tags/#xed"
