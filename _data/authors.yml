@@ -5,8 +5,8 @@ XED:
   bio         : "只要靠近人类工作的场所……"
   avatar      : "/assets/images/2.jpg"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
+    - label: "个人主页"
+      icon: "fa fa-institution"
       url: "mailto:billyrick@rick.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
