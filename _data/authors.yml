@@ -17,3 +17,12 @@ XX:
     - label: "个人主页"
       icon: "fas fa-fw fa-university"
       url: "/tags/#小贤"
+
+LY:
+  name        : "凛远酱 🐯"
+  bio         : "我飘向北方，别问我家乡"
+  avatar      : "/assets/images/5.jpg"
+  links:
+    - label: "个人主页"
+      icon: "fas fa-fw fa-university"
+      url: "/tags/#凛远"
