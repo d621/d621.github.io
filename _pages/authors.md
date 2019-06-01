@@ -1,6 +1,8 @@
 ---
 title: "作者墙"
 permalink: /authors/
+layout: single
+author_profile: true
 gallery:
   - url: /tags/#d621-press
     image_path: /assets/images/3.jpg
