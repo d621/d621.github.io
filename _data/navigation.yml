@@ -1,5 +1,7 @@
 # main links
 main:
+  - title: "作者"
+    url: /authors/
   - title: "归档"
     url: /year-archive/
   - title: "分类"
