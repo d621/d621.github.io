@@ -1,5 +1,5 @@
 ---
-title: "作者墙"
+title: "Posts by Authors"
 permalink: /authors/
 layout: single
 author_profile: true
