@@ -26,3 +26,12 @@ LY:
     - label: "个人主页"
       icon: "fas fa-fw fa-university"
       url: "/tags/#凛远"
+
+d621:
+  name        : "d621-press 🤖"
+  bio         : "欢迎回来，这里是d621"
+  avatar      : "/assets/images/3.jpg"
+  links:
+    - label: "个人主页"
+      icon: "fas fa-fw fa-university"
+      url: "/tags/#d621-press"
